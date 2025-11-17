@@ -9,7 +9,6 @@ import ModelSwitcher from "./three/ModelSwitcher.jsx";
 const ProductViewer = () => {
     const {color, scale, setColor, setScale} = useMacbookStore();
 
-    console.log('productscale', scale);
     const isMobile = useMediaQuery({maxWidth: '1040px'})
 
     return (
