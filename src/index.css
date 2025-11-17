@@ -2,22 +2,22 @@
 
 @font-face {
   font-family: "Regular";
-  src: url("public/fonts/regular.otf");
+  src: url("/fonts/regular.otf");
 }
 
 @font-face {
   font-family: "Medium";
-  src: url("public/fonts/medium.otf");
+  src: url("/fonts/medium.otf");
 }
 
 @font-face {
   font-family: "SemiBold";
-  src: url("public/fonts/semibold.otf");
+  src: url("/fonts/semibold.otf");
 }
 
 @font-face {
   font-family: "Bold";
-  src: url("public/fonts/bold.otf");
+  src: url("/fonts/bold.otf");
 }
 
 * {
